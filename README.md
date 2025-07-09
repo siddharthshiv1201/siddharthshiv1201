@@ -28,8 +28,19 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Snake Game Repo View -->
-# 🐍 My Snake Wizard Game
-<div align="center">
+<!-- Snake Game Repo View -->
+<hr/>
+
+<h2 align="center">🐍 My Snake Wizard Game</h2>
+
+<p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</p>
+
+<p align="center">
+  <strong>⚡ Watch my contributions slither across the grid like a snake! ⚡</strong><br/>
+  ⭐ Coding my way through 2025 and beyond! ⭐<br/>
+  🚀 Pushing commits daily for the green squares! 🚀
+</p>
+
 
